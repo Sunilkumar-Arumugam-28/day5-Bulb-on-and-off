@@ -1,0 +1,30 @@
+img{
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+    margin-top: 1%;
+}
+button{
+    margin-left: 45%;
+    background: rgb(113, 122, 119);
+    color: blanchedalmond;
+    height: 40px;
+    width: 130px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 2%;
+
+}
+h1{
+    margin-left: 23%;
+    margin-top: 3%;
+}
+body{
+    background: linear-gradient(90deg,rgb(53, 53, 214),rgb(219, 46, 46),black);
+}
+button:hover{
+    background: linear-gradient(90deg,rgb(255, 30, 30),rgb(126, 9, 64),rgb(55, 55, 228));
+}
